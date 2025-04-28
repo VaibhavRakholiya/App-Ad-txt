@@ -18,7 +18,7 @@ google.com, pub-3333825692123454, DIRECT, f08c47fec0942fa0
 
 #Replace the Business_ID below with your Meta Business ID
 
-facebook.com,1371493277329250,RESELLER,c3e20eee3f780d68
+facebook.com,1001680845257429,RESELLER,c3e20eee3f780d68
 
 #Add other networks if applicable
 
